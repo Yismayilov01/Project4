@@ -358,7 +358,7 @@ li a:hover {
 /* asagi hisse*/
 
 
-section3 {
+#section3 {
     position: absolute;
     top: 1800px;
     display: flex;
